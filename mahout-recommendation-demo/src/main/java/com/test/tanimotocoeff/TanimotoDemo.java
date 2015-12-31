@@ -167,6 +167,7 @@ public class TanimotoDemo {
 
 		} catch (Exception ex) {
 			ex.printStackTrace();
+			
 		}
 
 	}
